@@ -1,0 +1,7 @@
+
+Rand : 4
+Denominators : 
+1 2 3 
+Rand : 4
+Denominators : 
+1 2 3 
