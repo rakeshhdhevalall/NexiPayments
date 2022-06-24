@@ -1,5 +1,6 @@
 #include "Combination.h"
 #include <iostream>
+#include <vector>
 
 //
 //
